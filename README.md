@@ -1,7 +1,4 @@
 # CODSOFT_RPS-GAME
-Here's a concise and engaging GitHub README description for a Rock, Paper, Scissors game implemented in Python:
-
----
 
 # Rock, Paper, Scissors Game
 
